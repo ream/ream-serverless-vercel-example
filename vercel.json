@@ -1,0 +1,8 @@
+{
+  "builds": [
+    {
+      "src": "ream.config.js",
+      "use": "@ream/vercel-builder@0.0.15"
+    }
+  ]
+}
