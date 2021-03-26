@@ -1,6 +1,6 @@
 <script lang="ts">
 import { defineComponent } from "vue"
-import { useHead } from "@ream/app"
+import { useHead } from "ream/app"
 
 export default defineComponent({
   setup() {
